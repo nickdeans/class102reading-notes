@@ -1,5 +1,7 @@
 # Reading notes for Codefellows
 
+Hi, I am Nick Abramowicz and welcome to my Github page.
+
 **Table of Contents**
 * [Github Profile](https://github.com/nickdeans)
 * [Markdown](markdown.md)
@@ -15,4 +17,4 @@
 * Learn From Constructive Critiscm
 * Be Inspired 
 
-Hi, I am Nick and here is my Github page https://github.com/nickdeans
+
