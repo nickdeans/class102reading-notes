@@ -11,4 +11,4 @@
 * Learn From Constructive Critiscm
 * Be Inspired 
 
-Hi, I am Nick and here is my Guthub page https://github.com/nickdeans
+Hi, I am Nick and here is my Github page https://github.com/nickdeans
