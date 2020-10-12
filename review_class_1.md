@@ -14,7 +14,7 @@
 1. This is middle
 1. This is bottom 
 
-##linking Other files or sites?
+## Linking Other files or sites?
 []()
 []
 this is the name that shows up on the screen
