@@ -6,7 +6,7 @@ Hi, I am Nick Abramowicz and welcome to my Github page.
 * [Github Profile](https://github.com/nickdeans)
 * [Markdown](markdown.md)
 
-**Growth Mindset**
+**Growth Mindset** - 
 *Growth mindset is the ability to undertsand that your knowledge is not limited to any capacity and as long as you have the determination and grit you will be able to learn new concepts.*
 
 **How to keep yourself in a Growth Mindset**
@@ -17,7 +17,7 @@ Hi, I am Nick Abramowicz and welcome to my Github page.
 * Learn From Constructive Critiscm
 * Be Inspired 
 
-**Learning Markdown**
+**Learning Markdown** - 
 *Below you will find basic and key syntax to use on your first Markdown page.*
 
 * Headers
