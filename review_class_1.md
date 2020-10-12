@@ -1,6 +1,6 @@
 # Review Class 01
 
-## unoderdered list
+## unordered list
 - this is 1 
 - this is 2
 - this is 3
