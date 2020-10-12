@@ -1,7 +1,7 @@
 # Reading notes for Codefellows
 
 **Table of Contents**
-* [Github Profile](https://nickdeans.github.io/)
+* [Github Profile](https://github.com/nickdeans)
 * [Markdown](markdown.md)
 
 **Growth Mindset**
