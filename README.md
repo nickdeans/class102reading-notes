@@ -2,7 +2,7 @@
 
 **Table of Contents**
 * Profile 
-* [Markdown]
+* [Markdown](markdown.md)
 
 **Growth Mindset**
 *Growth mindset is the ability to undertsand that your knowledge is not limited to any capacity and as long as you have the determination and grit you will be able to learn new concepts.*
