@@ -23,25 +23,29 @@ To import an existing project or directory into Git, follow these steps using th
 
 1. Switch to the target project’s directory
 Example:
+
 ```
 $ cd test (cd = change directory)
 ```
 
 2. Use the git init command
+
 ```
 $ git init
 ```
 
 ### Cloning
 You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
+
 ```
 $ git clone https://github.com/test
 ```
 
 To clone a repository into a directory with another name of your choosing, use the following command format:
+
 ```
 $ git clone https://github.com/test mydirectory
 ```
 
-## Remote Repositiories 
+## Remote Repositories 
 In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.
