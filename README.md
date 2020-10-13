@@ -12,6 +12,8 @@ Hi, I am Nick Abramowicz and welcome to my Github page.
 ### Review Files
 * [Review Notes](review_class_1.md)
 
+### Growth Mindset 
+
 
 **Growth Mindset** - 
 *Growth mindset is the ability to undertsand that your knowledge is not limited to any capacity and as long as you have the determination and grit you will be able to learn new concepts.*
