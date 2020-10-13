@@ -12,7 +12,7 @@ Hi, I am Nick Abramowicz and welcome to my Github page.
 ### Review Files
 * [Review Notes](review_class_1.md)
 
-### Growth Mindset 
+
 
 
 
