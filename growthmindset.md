@@ -11,4 +11,4 @@
 * Learn From Constructive Critiscm
 * Be Inspired 
 
-[<== back](reading-notes.md)
+[<== back](readme.md)
