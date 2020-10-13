@@ -1,4 +1,4 @@
-# Reading notes for Codefellows
+# Reading Notes for Codefellows
 
 Hi, I am Nick Abramowicz and welcome to my Github page.
 
