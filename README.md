@@ -7,7 +7,7 @@ Hi, I am Nick Abramowicz and welcome to my Github page.
 
 ### Reading Files
 * [Markdown](markdown.md)
-* [Revisions and the CLoud](revisions_and_cloud.md)
+* [Revisions and the Cloud](revisions_and_cloud.md)
 
 ### Review Files
 * [Review Notes](review_class_1.md)
