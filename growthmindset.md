@@ -11,4 +11,4 @@
 * Learn From Constructive Critiscm
 * Be Inspired 
 
-[<== back](README.md)
+[<== back](https://nickdeans.github.io/reading-notes/)
