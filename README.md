@@ -2,7 +2,7 @@
 
 Hi, I am Nick Abramowicz and welcome to my Github page.
 
-**Table of Contents**
+## Table of Contents
 * [Github Profile](https://github.com/nickdeans)
 
 ### Reading Files
