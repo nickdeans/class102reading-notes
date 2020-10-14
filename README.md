@@ -13,6 +13,7 @@ Hi, I am Nick Abramowicz and welcome to my Github page.
 - [HTML](webpages_html.md)
 - [CSS](css.md)
 - [Javascript](javascript.md)
+- [Computer Architecture and Logic](computerlogic.md)
 
 ### Review Files
 
