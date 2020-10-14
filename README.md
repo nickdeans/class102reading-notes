@@ -20,3 +20,7 @@ Hi, I am Nick Abramowicz and welcome to my Github page.
 ### Growth Mindset
 
 - [Growth Mindset](growthmindset.md)
+
+### Pokemon
+
+- [Pokemon Trainer](pokemon.md)
