@@ -12,7 +12,7 @@ Hi, I am Nick Abramowicz and welcome to my Github page.
 - [Revisions and the Cloud](revisions_and_cloud.md)
 - [HTML](webpages_html.md)
 - [CSS](css.md)
-- [JavaScript](javascript.md)
+- [Javascript](javascript.md)
 
 ### Review Files
 
