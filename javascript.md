@@ -8,5 +8,5 @@
 
 ## Tips for JavaScript
 
-- It is best to keep JavaScript code in its own JavaScript file.
+- It is the best to keep JavaScript code in its own JavaScript file.
 - If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created.
