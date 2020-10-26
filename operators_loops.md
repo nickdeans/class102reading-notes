@@ -2,7 +2,7 @@
 
 1. Logical Operators
    - Comparison operators usually return single values of _true_ or _false_.
-   - Logical operators allow you to compare the results of more than one comparison operator.
+   - Logical operators allow you to compare the results of more than one comparison operator. :)
 
 **&&** Logical And - This operator tests more than one condition.
 
